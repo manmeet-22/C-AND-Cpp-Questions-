@@ -12,7 +12,7 @@ class figure
     	 virtual void area(){}; 
    };
 class rectangle:public figure
-  {
+  {    
       	 float l,b;
    	 public:
       	 virtual void area()
