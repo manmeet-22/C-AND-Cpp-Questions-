@@ -9,7 +9,7 @@ using namespace std;
 class person
 {	char name[20];
 	int birth;
-	float h;
+	float h;  
 	public:
 	person(const char *n,int by,float height)
 	{	strcpy(name,n);
