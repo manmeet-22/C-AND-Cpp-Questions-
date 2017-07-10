@@ -9,7 +9,7 @@ using namespace std;
 class figure
  {
   	 public:
-    	 virtual void area(){};
+    	 virtual void area(){}; 
    };
 class rectangle:public figure
   {
