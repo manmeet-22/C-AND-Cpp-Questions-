@@ -32,7 +32,7 @@ class triangle:public figure
              	cin>>base>>height;
            	 cout<<"area of triangle is "<<0.5*base*height<<endl;
              }
-      };
+      }; 
 int main()
  {
   	 int choice;
